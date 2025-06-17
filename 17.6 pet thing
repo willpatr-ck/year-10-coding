@@ -1,0 +1,9 @@
+petname = input("pet name"?)
+petbreed = input("pet breed?")
+petage = ""
+vaccine = input("is pet vaccinated?")
+
+if petage < 1:
+    print("this is a baby pet!")
+
+petage = input("how old is the pet?")
